@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Georgey764
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on building fully functioning websites for businesses
 - 📫 How to reach me georgesamuel764@gmail.com
 
 <!---
