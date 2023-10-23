@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Georgey764
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on building fully functioning websites for businesses
 - 📫 How to reach me georgesamuel764@gmail.com
 
