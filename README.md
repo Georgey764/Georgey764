@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Georgey764
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on building fully functioning websites for businesses
+- Welcome to my GitHub page.
+
+### Here is a list of my repositories that I want to showcase:
+- [Bible Search Engine](https://github.com/Georgey764/Bible-Search-Engine)
+- [Mapping Application (Map It)](https://github.com/Georgey764/MapIt)
+
 - 📫 How to reach me georgesamuel764@gmail.com
 
 <!---
