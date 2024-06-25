@@ -1,6 +1,6 @@
 #### About
 - 👋 Hi, I’m @Georgey764
-- Linked In:[linkedin.com/in/george-khawas](https://www.linkedin.com/in/george-khawas/).
+- Linked In: [linkedin.com/in/george-khawas](https://www.linkedin.com/in/george-khawas/).
 - 📫 How to reach me: georgesamuel764@gmail.com
   
 #### Here is a list of my repositories that I want to showcase:
