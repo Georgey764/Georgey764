@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Georgey764
 - Welcome to my GitHub page.
-
+- 📫 How to reach me georgesamuel764@gmail.com
+  
 ### Here is a list of my repositories that I want to showcase:
 - [Bible Search Engine](https://github.com/Georgey764/Bible-Search-Engine)
 - [Mapping Application (Map It)](https://github.com/Georgey764/MapIt)
 
-- 📫 How to reach me georgesamuel764@gmail.com
+
 
 <!---
 Georgey764/Georgey764 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
