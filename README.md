@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @Georgey764
 - Linked In: [linkedin.com/in/george-khawas](https://www.linkedin.com/in/george-khawas/).
 - 📫 How to reach me: georgesamuel764@gmail.com
+- Website: [george-khawas.netlify.app](https://george-khawas.netlify.app)
   
 #### Here is a list of my repositories that I want to showcase:
 - [Bible Search Engine](https://github.com/Georgey764/Bible-Search-Engine)
