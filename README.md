@@ -8,7 +8,7 @@
 - [Bible Search Engine](https://github.com/Georgey764/Bible-Search-Engine)
 - [Mapping Application (Map It)](https://github.com/Georgey764/MapIt)
 - [Application Submission Software](https://github.com/Georgey764/applications-submission-software)
-- [Content Management System]
+- [Content Management System](https://github.com/Georgey764/content-management-system)
 
 
 
